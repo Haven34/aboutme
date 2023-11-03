@@ -22,7 +22,7 @@ Fonts are separated by a | */
   --paragraph-background-color: #FF3C38  ;
   --nav-link-color: #FF8C48;
   --nav-background-color: white;
-  --nav-hover-link-color: white;
+  --nav-hover-link-color: #070707;
   --nav-hover-background-color: white;
 }
 
@@ -149,12 +149,12 @@ nav a:hover {
   line-height: 3em;
 }
 .sm-page2 {
-  grid-area: page2;
+  grid-area: Biography;
   background-color: #ccc;
   line-height: 3em;
 }
 .sm-page3 {
-  grid-area: page3;
+  grid-area: Events;
   background-color: #ccc;
   line-height: 3em;
 }
